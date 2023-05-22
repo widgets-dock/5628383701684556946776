@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831464841216",
+    "project_id": "bass-booster-volume-app-set",
+    "storage_bucket": "bass-booster-volume-app-set.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831464841216:android:701d33e0421cec368238e5",
+        "android_client_info": {
+          "package_name": "com.garangankimcil.bssbstrvlmapst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831464841216-l8nqfg4e6uu7esf6u3684t5r2qt7r0ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyB0eYUDp52tN5-H4xfQg06uG-hHyqlhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831464841216-l8nqfg4e6uu7esf6u3684t5r2qt7r0ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
